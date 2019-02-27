@@ -1,1 +1,1 @@
-# htpps://paulyapp.github.io
+# https://paulyapp.github.io
